@@ -1,2 +1,2 @@
 # CUTe
-Stereo Vision
+Internship Project
